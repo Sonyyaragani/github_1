@@ -1,4 +1,4 @@
-# github_1
+# IBM Data Science
 IBM Data Science Assignments
 
 
